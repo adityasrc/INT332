@@ -12,6 +12,10 @@ Welcome to the **INT332** course repository. This repository contains all labs, 
     - [Interactive, Detached & Variables](./week3/docker_commands_env_vars.md)
 
 ---
-**Created with ❤️ for Bunty**
+
+## 📝 Last Updated
+- April 6, 2026: Repository fully configured and pushed to GitHub
+
+**Created with ❤️ for Aditya**
 
 # int332
